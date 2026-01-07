@@ -1,4 +1,4 @@
-## Flutter training 2026 at TH Aschaffenburg 
+## Flutter Training 2026
 
 Starting Feb. 2026, I plan to offer a Flutter training for Software Design students at TH Aschaffenburg.
 
