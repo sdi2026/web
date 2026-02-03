@@ -25,6 +25,10 @@ During the training I plan to develop the following apps and share their code on
 - [lux_meter](https://fdg2425.github.io/web/fdg_lux_meter/)  (use external packages, switch light & dark theme, use front camera in Android)
 - [open_meteo_ui](https://guentherschmitt.github.io/web_test/open_meteo_ui/) (get weather forecast from Web API, show zoomable maps, change display language)
 
+---
+
 Short info about the trainer:
 
 My name is Günther Schmitt, I worked nearly 40 years as software engineer, the last 20 years at Schneider Electric developing Windows apps with C++ and C#. After my retirement in 2021 I wanted to learn writing code for Android. First I used .Net and Microsoft MAUI, but then I came across Flutter and enjoyed working with it. Since 2023 I offer Flutter trainings for young students to share my knowledge and my fun in coding.
+
+![GS](./GS_circle.jpg)
